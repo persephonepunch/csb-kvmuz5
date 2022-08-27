@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://persephonepunch.github.io/csb-kvmuz5/static/css/main.1d8a5c13.chunk.css",
+    "main.js": "https://persephonepunch.github.io/csb-kvmuz5/static/js/main.5e786ac0.chunk.js",
+    "main.js.map": "https://persephonepunch.github.io/csb-kvmuz5/static/js/main.5e786ac0.chunk.js.map",
+    "runtime-main.js": "https://persephonepunch.github.io/csb-kvmuz5/static/js/runtime-main.1ee527bb.js",
+    "runtime-main.js.map": "https://persephonepunch.github.io/csb-kvmuz5/static/js/runtime-main.1ee527bb.js.map",
+    "static/js/2.c7773abf.chunk.js": "https://persephonepunch.github.io/csb-kvmuz5/static/js/2.c7773abf.chunk.js",
+    "static/js/2.c7773abf.chunk.js.map": "https://persephonepunch.github.io/csb-kvmuz5/static/js/2.c7773abf.chunk.js.map",
+    "index.html": "https://persephonepunch.github.io/csb-kvmuz5/index.html",
+    "static/css/main.1d8a5c13.chunk.css.map": "https://persephonepunch.github.io/csb-kvmuz5/static/css/main.1d8a5c13.chunk.css.map",
+    "static/js/2.c7773abf.chunk.js.LICENSE.txt": "https://persephonepunch.github.io/csb-kvmuz5/static/js/2.c7773abf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ee527bb.js",
+    "static/js/2.c7773abf.chunk.js",
+    "static/css/main.1d8a5c13.chunk.css",
+    "static/js/main.5e786ac0.chunk.js"
+  ]
+}
